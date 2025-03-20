@@ -12,6 +12,6 @@ The purpose of this repository is to:
 
 ## Contact
 If you have any questions or feedback, feel free to reach out:
-Name: Weedanta
-Email: baguswedanta17@gmail.com
-LinkedIn: https://www.linkedin.com/in/baguswedanta/
+- Name: Weedanta
+- Email: baguswedanta17@gmail.com
+- LinkedIn: https://www.linkedin.com/in/baguswedanta/
