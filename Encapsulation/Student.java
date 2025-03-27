@@ -3,14 +3,14 @@ package Encapsulation;
 public class Student {
     private String name;
     private int age;
-    private String studentId;
+    private int studentId;
 
     // Constructor
-    public Student(String name, int age, String studentId) {
-        this.name = name;
-        this.age = age;
-        this.studentId = studentId;
-    }
+    // public Student(String name, int age, String studentId) {
+    //     this.name = name;
+    //     this.age = age;
+    //     this.studentId = studentId;
+    // }
 
     // Getter for name
     public String getName() {
@@ -33,12 +33,12 @@ public class Student {
     }
 
     // Getter for studentId
-    public String getStudentId() {
+    public int getStudentId() {
         return studentId;
     }
 
     // Setter for studentId
-    public void setStudentId(String studentId) {
+    public void setStudentId(int studentId) {
         this.studentId = studentId;
     }
 }
